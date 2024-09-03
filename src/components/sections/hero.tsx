@@ -26,9 +26,9 @@ I am a data analyst graduated with a bachelor degree in Accounting, I firmly bel
             <p className='font-bold text-center'>
             Professional Experience :
             </p>
-            <Typography>
+            <p className='text-center my-2'>
             Currently : Interning as Data Analyst with NeuronetiX
-            </Typography>
+            </p>
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex gap-2">
