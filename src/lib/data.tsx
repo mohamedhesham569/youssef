@@ -15,7 +15,7 @@ import LogoGit from '/public/images/logos/icon-git.svg';
 import LogoUpwork from '/public/images/logos/logo-upwork.svg';
 import LogoVezloo from '/public/images/logos/5953920271624814764-removebg-preview.png';
 import LogoEscwa from '/public/images/logos/5953920271624814772-removebg-preview.png';
-import Logonu from '/public/images/logos/5953920271624814771-removebg-preview.png';
+import Logonu from '/public/images/item.jpg';
 
 import Project2 from '/public/images/project2.png';
 import Project1 from '/public/images/project1.png';
