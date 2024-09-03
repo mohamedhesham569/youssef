@@ -106,7 +106,10 @@ const Header = () => {
             </div>
           </DrawerContent>
         </Drawer> */}
-        <DownloadCV />
+        <div className="md:hidden">
+          <DownloadCV />
+        </div>
+        
       </div>
     </header>
   );
