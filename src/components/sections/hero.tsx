@@ -27,14 +27,13 @@ const HeroSection = () => {
         <div className="flex max-w-3xl flex-grow flex-col justify-center gap-8 md:order-first md:items-start md:justify-center 2xl:gap-12">
           <div className="flex flex-col gap-2">
             <Typography variant="h1">
-            Hello! ,I'm Youssef 
+             Hello! ,I am Youssef 
               <span className="inline-block animate-waving-hand">👋</span>
             </Typography>
             <Typography>
              
-I'm a data analyst graduated with a bachelor degree in Accounting, I firmly believe that data can be used to solve humanization issues and making right decisions will make the world better.
+I am a data analyst graduated with a bachelor degree in Accounting, I firmly believe that data can be used to solve humanization issues and making right decisions will make the world better.
 Professional Experience
-
 
             </Typography>
             <Typography>
