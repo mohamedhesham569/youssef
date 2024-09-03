@@ -21,9 +21,11 @@ const HeroSection = () => {
             <Typography>
              
 I am a data analyst graduated with a bachelor degree in Accounting, I firmly believe that data can be used to solve humanization issues and making right decisions will make the world better.
-Professional Experience
 
             </Typography>
+            <p className='font-bold text-center'>
+            Professional Experience :
+            </p>
             <Typography>
             Currently : Interning as Data Analyst with NeuronetiX
             </Typography>
