@@ -63,7 +63,7 @@ const Header = () => {
           </div>
         </div>
 
-        <Drawer open={isOpen} onOpenChange={setIsOpen}>
+{/*         <Drawer open={isOpen} onOpenChange={setIsOpen}>
           <DrawerTrigger asChild className="flex md:hidden">
             <IconButton>
               <Menu />
@@ -105,7 +105,8 @@ const Header = () => {
               <DownloadCV />
             </div>
           </DrawerContent>
-        </Drawer>
+        </Drawer> */}
+        <DownloadCV />
       </div>
     </header>
   );
